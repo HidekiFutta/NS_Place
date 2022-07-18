@@ -11,7 +11,7 @@ body {
    padding:0;
    line-height:1.6;
    letter-spacing:1px;
-   font-family:"���C���I","�l�r �o�S�V�b�N",Osaka, sans-serif;
+   font-family:"CI","lr oSVbN",Osaka, sans-serif;
    font-size:13px;
    color:#333;
    background:#fff;
@@ -152,8 +152,8 @@ h1,h2,h3,h4,h5,h6 {
 
 #slideshow {
    position: relative;
-   width:  760px; /* �摜�̉����ɍ��킹�ċL�q */
-   height: 300px; /* �摜�̍����ɍ��킹�ċL�q */
+   width:  760px; /* æÌ¡Éí¹ÄLq */
+   height: 300px; /* æÌ¡Éí¹ÄLq */
 }
 #slideshow img {
    position: absolute;
